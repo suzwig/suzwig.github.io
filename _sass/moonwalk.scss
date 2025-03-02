@@ -100,13 +100,12 @@ img {
 @mixin light-appearance {
     html,
     body {
-	--bg: #b6efe5; /* Bright seafoam green */
+	--bg: #2ed1c3; /* Bright seafoam green */
 	--bg-secondary: #ffb6b3; /* Soft but noticeable pink */
-
 	--headings: #d90452; /* Bold deep pink */
 	--text: #2a3d3a; /* Dark seafoam green for strong readability */
 	--text-secondary: #4b6260; /* Muted teal */
-	--links: #e63980; /* Vivid pink */
+	--links: #d90452; /* Vivid pink */
 	--highlight: #ffe599; /* Warm pastel yellow */
 	--code-text: #b01252; /* Deep pink-red */
 	--share-text: #6c8482; /* Muted teal-gray */
@@ -118,14 +117,12 @@ img {
 @mixin dark-appearance {
     html,
     body {
-	--bg: #280b18; /* Dark, muted pinkish-black */
+	--bg: #000000; 
 	--bg-secondary: #7c2d40; /* Rich dark pink */
-
-	--headings: #6ff2d7; /* Bright seafoam green */
+	--headings: #2ed1c3; /* Bright seafoam green */
 	--text-secondary: #88c7bd; /* Muted seafoam */
-
 	--text: #c1f7ec; /* Softer seafoam green for readability */
-	--links: #ff6b9f; /* Vibrant, eye-catching pink */
+	--links: #d90452; /* Vibrant, eye-catching pink */
 	--highlight: #f8d66d; /* Warm golden yellow */
 	--code-text: #ff6188; /* Neon pink-red */
 	--share-text: #87a9a5; /* Subtle seafoam tint */

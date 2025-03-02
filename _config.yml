@@ -2,11 +2,9 @@ title: Suzie's & Ludwig's Wedding
 author: Ludwig Schneider
 url: https://www.ludwigschneider.net
 description: >
-  We are getting married on Auguat 2nd 2025 in Chicago!  
+  We are getting married on Auguat 2nd, 2025 in Chicago!  
   
 permalink: /:slug
-
-favicon: "./assets/images/favicon/logo.png"
 
 # twitter:
 #     username: none
@@ -15,7 +13,7 @@ favicon: "./assets/images/favicon/logo.png"
 remote_theme: abhinavs/moonwalk
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "light" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "home" # customize text for homepage link in post layout
   date_format: "%m-%d-%Y" # customize how date is formatted
