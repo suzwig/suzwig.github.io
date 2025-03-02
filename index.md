@@ -13,3 +13,5 @@ We are also going to host a celebration in Germany.
 Please stay tuned for separate invitations and details for that.
 
 {% include gallery.html folder="/assets/images/gallery/" %}
+
+P.S. "Suzwig" is our trivial team name! We have won 4 [Evanston Pour](https://www.evanstonpour.com/) mugs at our favorite Tuesday trivia so far!
