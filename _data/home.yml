@@ -1,0 +1,19 @@
+navbar_entries:
+  - title: about
+    url: about
+
+
+project_entries:
+
+old_project_entries:
+
+footer_entries:
+  - title: Suzie's homepage
+    url: https://www.suzierossphoto.com/
+      
+  - title: Ludwig's homepage
+    url: https://www.ludwigschneider.net
+
+misc_entries:
+  - title: this is an example vertical list
+    url: false
