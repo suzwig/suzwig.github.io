@@ -9,6 +9,8 @@ I found a beautiful conch shell in the water, put the Lego ring in it and asked 
 
 She said: "I love you!" and yes.
 
+<img src="assets/images/ring-conch.jpg" alt="Description" width="100%">
+
 ## Map of our Kayak Trip
 
 <div id="map" style="width: 100%; height: 800px;"></div>
@@ -49,3 +51,5 @@ document.addEventListener('DOMContentLoaded', function() {
     map.invalidateSize();
 });
 </script>
+
+{% include youtube.html id="HbJv8RrpbxE" %}

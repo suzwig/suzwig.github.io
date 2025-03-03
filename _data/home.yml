@@ -1,6 +1,8 @@
 navbar_entries:
-  - title: home
+  - title: Home
     url: index
+  - title: Proposal
+    url: proposal
   - title: Save The Date
     url: save-the-date
 
