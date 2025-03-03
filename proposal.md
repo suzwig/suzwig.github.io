@@ -9,7 +9,7 @@ I found a beautiful conch shell in the water, put the Lego ring in it and asked 
 
 She said: "I love you!" and yes.
 
-<img src="assets/images/ring-conch.jpg" alt="Description" width="100%">
+<img src="assets/images/ring-conch.jpg" alt="LEGO ring in Conch shell" style="max-width: 400px; width: 100%; height: auto;">
 
 ## Map of our Kayak Trip
 
