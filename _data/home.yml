@@ -4,7 +4,6 @@ navbar_entries:
   - title: Save The Date
     url: save-the-date
 
-
 project_entries:
 
 old_project_entries:
@@ -12,7 +11,7 @@ old_project_entries:
 footer_entries:
   - title: Suzie's homepage
     url: https://www.suzierossphoto.com/
-      
+
   - title: Ludwig's homepage
     url: https://www.ludwigschneider.net
 
