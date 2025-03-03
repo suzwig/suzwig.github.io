@@ -1,0 +1,4 @@
+# Prettier friendly markdownlint config (all formatting rules disabled)
+extends: markdownlint/style/prettier
+
+MD026: false # no-trailing-punctuation
