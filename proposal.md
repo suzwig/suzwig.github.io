@@ -10,7 +10,7 @@ She hugged me excitedly and said: “I love you!” and yes. :D
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="assets/images/ring-conch.jpg" alt="LEGO ring in Conch shell" style="max-width: 400px; width: 100%; height: auto;">
-  <img src="assets/images/gallery/IMG_0138.jpg" alt="Suzie showing off her new ring in the sunset kayaking home" style="max-width: 400px; width: 100%; height: auto;">
+  <img src="assets/images/IMG_0138.jpg" alt="Suzie showing off her new ring in the sunset kayaking home" style="max-width: 400px; width: 100%; height: auto;">
 </div>
 
 ## Map of our Kayak Trip
