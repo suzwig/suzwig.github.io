@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Proposal Date: February 26Tm, 2025
+# Proposal Date: February 26th, 2025
 
 I proposed to Suzie on Dickman’s Island which is part of the Ten Thousand Island Preserve near Marco Island, FL.
 I found a beautiful conch shell in the water, put the LEGO ring in it, and asked if she wants to marry me.
