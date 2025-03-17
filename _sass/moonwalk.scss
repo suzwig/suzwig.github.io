@@ -105,10 +105,24 @@ img {
     --headings: #d90452; /* Bold deep pink */
     --text: #2a3d3a; /* Dark seafoam green for strong readability */
     --text-secondary: #4b6260; /* Muted teal */
-    --links: #d90452; /* Vivid pink */
+    --links: #b01252; /* Vivid pink */
     --highlight: #ffe599; /* Warm pastel yellow */
     --code-text: #b01252; /* Deep pink-red */
     --share-text: #6c8482; /* Muted teal-gray */
+  }
+
+  .btn {
+    display: inline-block;
+    background-color: #d90452;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .btn:hover {
+    background-color: #b01252;
   }
 }
 // -------------- THEME SWITCHER -------------- //
@@ -120,10 +134,24 @@ img {
     --headings: #2ed1c3; /* Bright seafoam green */
     --text-secondary: #88c7bd; /* Muted seafoam */
     --text: #c1f7ec; /* Softer seafoam green for readability */
-    --links: #d90452; /* Vibrant, eye-catching pink */
+    --links: #f8d66d; /* Vibrant, eye-catching pink */
     --highlight: #f8d66d; /* Warm golden yellow */
     --code-text: #ff6188; /* Neon pink-red */
     --share-text: #87a9a5; /* Subtle seafoam tint */
+  }
+
+  .btn {
+    display: inline-block;
+    background-color: #2ed1c3;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .btn:hover {
+    background-color: #c1f7ec;
   }
 }
 
