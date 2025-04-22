@@ -4,8 +4,6 @@ layout: home
 
 # Save the Date: August 2nd, 2025! :D
 
-[Click here to RSVP](https://docs.google.com/forms/d/e/1FAIpQLSeZ8H52jUqlcatsEYVnrIcFLwCbn2oKvupe7Xkpm5zCgeXAKA/viewform?usp=dialog){: .btn} for our Wedding in Chicago.
-
 Please join us as we celebrate on a lovely summer day (🤞) on our building's deck and Windjammer Room overlooking Lake Michigan at 6033 N Sheridan Road!
 
 Please note that our wedding celebration is for **_guests 18 years and older only_**.
