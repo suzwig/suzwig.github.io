@@ -5,7 +5,11 @@ navbar_entries:
     url: proposal
   - title: Save The Date
     url: save-the-date
-
+  - title: House
+    url: house
+  - title: Registry
+    url: registry
+      
 project_entries:
 
 old_project_entries:
