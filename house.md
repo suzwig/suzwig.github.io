@@ -1,21 +1,22 @@
 ---
 layout: home
 ---
+We both fell in love with the Evanston community and Suzie was even born here! 
+When we first saw this house in South East Evanston we instantly fell in love! Not to mention, it’s only a one block walk to Lake Michigan!
 
-# House
+**743 Michigan Ave** has it all for us.
 
-We both fell in love with the Evanston community.
-And we managed to find a house for in South East Evanston only one block from the Lake!
+Built in 1914, it is a century old home with lots of stories to tell.  It is a Craftsman style house with beautiful original woodwork on the inside. They don’t build houses like this anymore!
+It has been well maintained and even updated over the years. We have a modern kitchen with heated floors and solar panels on the roof for green energy.
+We are only a 10 min walk to the Purple Line Main stop and Metra Station so that we can still conveniently visit Chicago and our city friends can even more easily visit us!
+We love the Main/Dempster Mile area in Evanston since it has all local family owned businesses. For example, this is where we found “Virag Jewlers” for Suzie’s engagement ring and our wedding bands and it is also home to our favorite trivia coffee house, “Evanston Pour”.
 
-**743 Michigan Ave** had it all for us.
+{% include gallery.html folder="/assets/images/house/" %}
 
-It is a Craftman's style house with beautiful wookwork on the inside.
-We were looking for something with the charm of an older house.
-Built in 1914 it is a century old home with lots of stories to tell, and built how they don't built houses anymore.
-But it has been updated over the years, so we have a modern kitchen with heated floors and solar panels on the roof for green energy.
-And we only have a 10 min walk to the Purple Line and Metra Station, so that we can still conveniently visit Chicago and our city friends can still visit us!
-And we love the Main/Dempster mile area in Evanston with all of its family owned stores. For example, this is where we found "Virag Jewlers" for our wedding bands and it is also home of our favorite trivia coffee house, "Evanston Pour". 
+We are scheduled to close on the house on June 24th and move in the following day.
+Sunday August 3rd (the day after the wedding), we would like to host a brunch and invite our wedding guests to see our new home!
 
+We are creating dedicated guest rooms in our new house, so if you want to visit the Chicago area after the weddings, please let us know :D!
 
 
 {% include house_map.html %}
