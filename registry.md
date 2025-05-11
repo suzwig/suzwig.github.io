@@ -27,6 +27,7 @@ Another local restaurant we enjoy is [Trattoria D.O.C.](https://trattoria-doc.co
 And since you know us, you know that we will always have use for more [LEGO](https://www.lego.com/en-us/gift-cards).
 
 We specifically decided not to include Amazon here in our registry, because while versatile we prefer to shop locally.
+If you want to give us more options of what to use your gift for, Evanston has a downtown wide [gift card option](https://downtownevanston.org/gift-card).
 
 ## Address Info
 
