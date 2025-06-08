@@ -13,7 +13,7 @@ If you are joining us, a hand-stamped invitation will come in the upcoming month
 ## Celebration in Germany
 
 We are also going to host a celebration in Germany.
-If you are going to celebrate in Germany with us, please stay tuned for separate invitations and details.
+If we have invited you to our Germany celebration you can find details [here](germany).
 
 ## This is us!
 
