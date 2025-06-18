@@ -4,13 +4,15 @@ layout: home
 
 # Registry
 
-For our married life together, we just bought our [new house in Evanston](/house).
+For our married life together, we just bought [our new house](/house) in Evanston.
+We love it to pieces, but it is a century house that will need a lot of care and upkeep.
+We also made a hefty down payment on our lovely house so we are MORE than OK with cash and checks as well to help replenish our savings!
+
 We love it to pieces, but it is a century house that will need a lot of care and upkeep.
 If you want to support us in our new married life together, we ask for help with our new house.
 
 One way to help us is a [gift card for our local home depot](https://www.homedepot.com/c/gift-cards) for home projects.
 There are a lot things that need attention soon, like new hardware, tools, electrical upgrades, and very important, building a "catio" :D.
-We don't even have a ladder at the moment.
 We will also have a back yard in our new house, so if you would like to support our new gardening efforts [Chalet Garden and Home Goods](https://chaletnursery.com/products/digital-gift-card?_pos=2&_psq=gift+cards&_ss=e&_v=1.0&variant=40352008863878) is a good local choice for us.
 
 We will still need breaks from all the projects, and one of our favorite activities is the trivia night at Evanston Pour.
