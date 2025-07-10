@@ -14,12 +14,6 @@ Wir werden vom 9. bis 11. Oktober ebenfalls im Hotel übernachten, bevor wir am 
 
 Wir freuen uns darauf, mit euch unser neues Kapitel zu feiern.
 
-## Zusagen
-
-Damit wir besser planen können, bitten wir um Eure **Zusage bis zum 20. Juni 2025** über dieses Formular:
-
-[Zusagen](https://docs.google.com/forms/d/e/1FAIpQLSfg5v1WGokd_VvgCD7MxrAVjjcIJe6Bfx1C6FIihK8GUEGhqQ/viewform?usp=dialog){: .btn}
-
 Bezüglich Hochzeitsgeschenken bitten wir Euch, von nicht-monetären Aufmerksamkeiten abzusehen, falls nicht anders besprochen, da unser Gepäckplatz begrenzt ist. Vielen Dank\!
 
 ## Ablaufplan
@@ -52,12 +46,6 @@ Our German wedding celebration will be a small gathering at ["Hotel die Reederin
 We'll also be staying at the hotel from October 9th to October 11th, before traveling back to Chicago via Copenhagen on October 11th.
 
 We look forward to celebrating our new chapter with you.
-
-## RSVP
-
-To help us plan, please RSVP by **June 20, 2025**, using this form:
-
-[RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfg5v1WGokd_VvgCD7MxrAVjjcIJe6Bfx1C6FIihK8GUEGhqQ/viewform?usp=dialog){: .btn}
 
 Regarding wedding gifts, we kindly ask you to refrain from non-monetary gifts, unless otherwise discussed, as our luggage space is limited. Thank you\!
 
