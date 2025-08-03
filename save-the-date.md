@@ -20,6 +20,14 @@ If you are joining us, a hand-stamped invitation will come in the upcoming month
 - **9:00 PM:** Karaoke
 - **11:00PM:** End
 
+## Photo Upload
+
+We'd absolutely love to see our special day through your eyes! Please [upload all your wonderful wedding pictures here](https://drive.google.com/drive/folders/1pWavrBEni-CsJNraDJ5jaZWsLE2G8K-6?usp=sharing) to our shared Google Drive. We encourage you to bookmark this link so you can easily add more photos even after the celebrations wind down.
+
+## Trivia
+
+Ready for some friendly competition? [Join our exciting trivia game here](https://docs.google.com/forms/d/e/1FAIpQLSetSSuFYq-AzVeEz8hiLOhYVPKpOXd1Zaauf7NpDYUjtDVTvA/viewform?usp=sharing&ouid=115220472890365273036) and test your Suzwig knowledge!
+
 ## Celebration in Germany
 
 We are also going to host a celebration in Germany.
