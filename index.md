@@ -2,9 +2,9 @@
 layout: home
 ---
 
-# We are happily married!
+# We're officially married!
 
-Thank you all for celebrating and supporting us no matter if close or far!
+Thank you to everyone for celebrating and supporting us, whether you were right here with us or cheering us on from afar.
 
 ![Us happily married in Chicago!](assets/images/IMG_1069.JPG)
 
