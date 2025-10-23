@@ -6,7 +6,11 @@ layout: home
 
 Thank you to everyone for celebrating and supporting us, whether you were right here with us or cheering us on from afar.
 
-![Us happily married in Chicago!](assets/images/IMG_1069.JPG)
+![Us happily married in Chicago! Photo Credit: Josh Anon](assets/images/IMG_1069.JPG)
+*Photo Credit: Josh Anon.*
+
+
+
 
 
 ## This is us!
